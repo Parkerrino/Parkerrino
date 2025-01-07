@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parkerrino
 - 👀 I’m interested in IT and typical Nerdstuff
-- 🌱 I’m currently learning Python and html/css
+- 🌱 I’m currently learning Python and some various other stuff
 - 💞️ I’m looking to collaborate on fun and useful projects
 - 📫 How to reach me discord: parker7243
 - 😄 Pronouns: he/him
